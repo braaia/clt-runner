@@ -1,0 +1,3 @@
+
+GetInputs();
+Moviment();
