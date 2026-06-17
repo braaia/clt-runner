@@ -10,13 +10,13 @@ var _foods = [obj_batata, obj_chocolate, obj_coxinha, obj_hamburg];
 
 if (_rowSpawn == 1)
 {
-	_obj = instance_create_layer(12, -32, "Food", _foods[_objRandom]);
+	_obj = instance_create_layer(12, -32, layerName, _foods[_objRandom]);
 	_obj.image_xscale = 1;
 	_obj.vspeed = 1.5;
 }
 else if (_rowSpawn == 2)
 {
-	_obj = instance_create_layer(168, -32, "Food", _foods[_objRandom]);
+	_obj = instance_create_layer(168, -32, layerName, _foods[_objRandom]);
 	_obj.image_xscale = -1;
 	_obj.vspeed = 1.5;
 }

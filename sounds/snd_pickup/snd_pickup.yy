@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Newer_Wave",
+  "%Name":"snd_pickup",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":174.60245,
+  "duration":0.14002268,
   "exportDir":"",
-  "name":"Newer_Wave",
+  "name":"snd_pickup",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Newer_Wave.mp3",
-  "volume":1.0,
+  "soundFile":"snd_pickup.wav",
+  "volume":0.21,
 }
